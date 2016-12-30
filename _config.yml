@@ -2,7 +2,7 @@ title: SVC Network Coding Simulator
 description: SVC network coding simulation Microcast JSVM
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
